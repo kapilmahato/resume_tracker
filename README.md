@@ -127,3 +127,4 @@ else:
     # Logout Button
     if st.button("Logout"):
         logout()
+GOOGLE_API_KEY = "AIzaSyCkdjyLsqdk1a_ZYkKnbbiW41C74ARO7Fo"
